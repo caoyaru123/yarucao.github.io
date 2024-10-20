@@ -21,7 +21,7 @@ name                     : &name "Yaru Cao"
 # #               Additional customization can be done by editing /_includes/author-profile.html
 # author:
 #   # Biographic information
-#   avatar           : "https://github.com/caoyaru123/yarucao.github.io/blob/master/images/%E4%B8%AA%E4%BA%BA%E7%85%A7%E7%89%872.png"
+   avatar           : "images/my photo.png"
 #   name             : "Yaru Cao(曹亚茹)"
 #   pronouns         : # example: "she/her"  
 #   bio              : "I am a PhD candidate, supervised by Professor Hongzhi Yu from Northwest Minzu University and Professor Minlie Huang from Tsinghua University."
