@@ -1,23 +1,14 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
-
-# Basic Site Settings
 locale                   : "Beijing"
 title                    : "Yaru Cao / Personal Homepage"
 title_separator          : "-"
 
 Author:
-   name                     : "Yaru Cao"
-   description              : "I am a PhD candidate, supervised by Professor Hongzhi Yu from Northwest Minzu University and Professor Minlie Huang from Tsinghua University."
-   avatar                   : "images/myphoto.png"
-   pronouns                 : ""  # 你可以填写相关内容或留空
-   bio                      : "I am a PhD candidate, supervised by Professor Hongzhi Yu from Northwest Minzu University and Professor Minlie Huang from Tsinghua University."
-   location                 : "Beijing"
-   employer                 : ""  # 你可以填写相关内容或留空
-   uri                      : ""  # 你可以填写相关内容或留空
-   email                    : "1195825322@qq.com, y222240011@stu.xbm"
+  name                     : "Yaru Cao"
+  description              : "I am a PhD candidate, supervised by Professor Hongzhi Yu from Northwest Minzu University and Professor Minlie Huang from Tsinghua University."
+  avatar                   : "images/myphoto.png"
+  pronouns                 : ""  # 空值可以用双引号表示
+  bio                      : "I am a PhD candidate, supervised by Professor Hongzhi Yu from Northwest Minzu University and Professor Minlie Huang from Tsinghua University."
+  location                 : "Beijing"
+  employer                 : ""  # 空值可以用双引号表示
+  uri                      : ""  # 空值可以用双引号表示
+  email                    : "1195825322@qq.com, y222240011@stu.xbm"
