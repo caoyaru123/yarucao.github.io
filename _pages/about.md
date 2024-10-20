@@ -23,5 +23,5 @@ Zhuang Chen†, Jincenzi Wu†, Jinfeng Zhou†, Bosi Wen†, Guanqun Bi, Gongya
 ACL 2024 (CCF-A)
 
 [Email](1195825322@qq.com,y22240011@stu.xbmu.edu.cn) 
-[WeiChat]
+[WeiChat](https://github.com/caoyaru123/yarucao.github.io/blob/master/images/WeChat.jpg)
 [GitHub](https://github.com/YaruCao-AI)
