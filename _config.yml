@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Beijing, Chinese"
+locale                   : "Beijing-Chinese"
 title                    : "Yaru Cao / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yaru Cao"
@@ -21,7 +21,7 @@ name                     : &name "Yaru Cao"
 # #               Additional customization can be done by editing /_includes/author-profile.html
 # author:
 #   # Biographic information
-   avatar           : "images/my photo.png"
+   avatar           : "images/myphoto.png"
 #   name             : "Yaru Cao(曹亚茹)"
 #   pronouns         : # example: "she/her"  
 #   bio              : "I am a PhD candidate, supervised by Professor Hongzhi Yu from Northwest Minzu University and Professor Minlie Huang from Tsinghua University."
