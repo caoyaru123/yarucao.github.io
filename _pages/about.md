@@ -26,7 +26,7 @@ Zhuang Chen, Jincenzi Wu, Jinfeng Zhou, Bosi Wen, Guanqun Bi, Gongyao Jiang, **Y
 
 ACL 2024 (CCF-A)
 
-Email: [1195825322@qq.com](1195825322@qq.com), [y22240011@stu.xbmu.edu.cn](y22240011@stu.xbmu.edu.cn) 
+Email: [1195825322@qq.com](1195825322@qq.com), [y222240011@stu.xbmu.edu.cn](y22240011@stu.xbmu.edu.cn) 
 
 [WeChat](https://github.com/caoyaru123/yarucao.github.io/blob/master/images/WeChat.jpg)
 
