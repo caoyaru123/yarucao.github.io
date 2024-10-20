@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/myphoto.png"
   name             : "Yaru Cao"
   pronouns         : # example: "she/her"  
   bio              : "I am a PhD candidate, supervised by Professor Hongzhi Yu from Northwest Minzu University and Professor Minlie Huang from Tsinghua University."
   location         : "Beijing, Chain"
   employer         : "Northwest Minzu University, Tsinghua University"
   uri              : # URL
-  email            : "1195825322@qq.com"#"none@example.org" 
+  email            : "1195825322@qq.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
