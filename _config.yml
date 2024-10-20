@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "Beijing-China"
-title                    : "YaruCao / Personal Homepage"
+title                    : "Yaru Cao / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yaru Cao"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
