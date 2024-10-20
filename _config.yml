@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Beijing-Chinese"
+locale                   : "Beijing, Chinese"
 title                    : "Yaru Cao / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yaru Cao"
-description              : &description "I am a PhD candidate, supervised by Professor Hongzhi Yu from Northwest Minzu University and Professor Minlie Huang from Tsinghua University."
+description              : &description "I am a PhD candidate, supervised by Professor Hongzhi Yu from Northwest Minzu University and Professor Minlie Huang from Tsinghua University."
 url                      : https://yarucao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "caoyaru123/yarucao.github.io"
@@ -21,14 +21,14 @@ repository               : "caoyaru123/yarucao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "https://github.com/caoyaru123/yarucao.github.io/blob/master/images/%E4%B8%AA%E4%BA%BA%E7%85%A7%E7%89%872.png"
+  name             : "Yaru Cao(曹亚茹)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am a PhD candidate, supervised by Professor Hongzhi Yu from Northwest Minzu University and Professor Minlie Huang from Tsinghua University."
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "1195825322@qq.com, y222240011@stu.xbm" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
