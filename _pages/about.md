@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Yaru Cao, my Chinese name is 曹亚茹. I am a PhD candidate, supervised by Professor [Hongzhi Yu](https://baike.baidu.com/item/%E4%BA%8E%E6%B4%AA%E5%BF%97/4596865) from [Northwest Minzu University](https://www.xbmu.edu.cn/) and Professor [Minlie Huang](https://www.cs.tsinghua.edu.cn/info/1121/5620.htm) from [Tsinghua University](https://www.tsinghua.edu.cn/).
+My name is Yaru Cao, my Chinese name is 曹亚茹. I am a PhD candidate, supervised by Professor [Hongzhi Yu](https://baike.baidu.com/item/%E4%BA%8E%E6%B4%AA%E5%BF%97/4596865) from [Northwest Minzu University](https://www.xbmu.edu.cn/) and Professor [Minlie Huang](https://coai.cs.tsinghua.edu.cn/hml) from [Tsinghua University](https://www.tsinghua.edu.cn/).
 
-I am currently a PhD candidate at [Minzu University](https://www.xbmu.edu.cn/), with Professor [Hongzhi Yu](https://baike.baidu.com/item/%E4%BA%8E%E6%B4%AA%E5%BF%97/4596865) as my supervisor. In the past two years, I have been a visiting scholar in the [COAl](https://coai.cs.tsinghua.edu.cn/) group at [Tsinghua University](https://www.tsinghua.edu.cn/), with Professor [Minlie Huang](https://www.cs.tsinghua.edu.cn/info/1121/5620.htm) as my supervisor, and will continue to conduct further research in the group.
+I am currently a PhD candidate at [Minzu University](https://www.xbmu.edu.cn/), with Professor [Hongzhi Yu](https://baike.baidu.com/item/%E4%BA%8E%E6%B4%AA%E5%BF%97/4596865) as my supervisor. In the past two years, I have been a visiting scholar in the [COAl](https://coai.cs.tsinghua.edu.cn/) group at [Tsinghua University](https://www.tsinghua.edu.cn/), with Professor [Minlie Huang](https://coai.cs.tsinghua.edu.cn/hml) as my supervisor, and will continue to conduct further research in the group.
 
 My current research interests focus on Natural Language Processing (NLP), with an emphasis on Large Language Models (LLMs), Emotionally Supported Conversations, Social Intelligence, Computational Psychology, and related areas.
 
