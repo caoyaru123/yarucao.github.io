@@ -14,13 +14,13 @@ My current research interests focus on Natural Language Processing (NLP), with a
 
 Publication
 ======
-[Enhancing Emotional Support Conversation with Cognitive Chain-of-Thought Reasoning](https://github.com/YaruCao-AI/CogChain)
+[Enhancing Emotional Support Conversation with Cognitive Chain-of-Thought Reasoning](https://github.com/YaruCao-AI/CogChain) (NLPCC 2024 (CCF-C))
 
 **Yaru Cao**, Zhuang Chen, Guanqun Bi, Yulin Feng, Min Chen, Fucheng Wan, Minlie Huang, and Hongzhi Yu
 
 NLPCC 2024 (CCF-C)
 
-[ToMBench: Benchmarking Theory of Mind in Large Language Models](https://aclanthology.org/2024.acl-long.847.pdf)
+[ToMBench: Benchmarking Theory of Mind in Large Language Models](https://aclanthology.org/2024.acl-long.847.pdf)(ACL 2024 (CCF-A))
 
 Zhuang Chen, Jincenzi Wu, Jinfeng Zhou, Bosi Wen, Guanqun Bi, Gongyao Jiang, **Yaru Cao**, Mengting Hu, Yunghwei Lai, Zexuan Xiong, Minlie Huang
 
@@ -28,6 +28,7 @@ ACL 2024 (CCF-A)
 
 Email: [1195825322@qq.com](1195825322@qq.com), [y222240011@stu.xbmu.edu.cn](y22240011@stu.xbmu.edu.cn) 
 
-[WeChat](https://github.com/caoyaru123/yarucao.github.io/blob/master/images/WeChat.jpg)
+AAAI 2025
+[SocialSim: Towards Socialized Simulation of Emotional Support Conversations] (AAAI 2025)
 
 [GitHub](https://github.com/YaruCao-AI)
