@@ -16,9 +16,13 @@ Publication
 ======
 [1] **Yaru Cao**, Zhuang Chen, Guanqun Bi, Yulin Feng, Min Chen, Fucheng Wan, Minlie Huang, and Hongzhi Yu
 . [Enhancing Emotional Support Conversation with Cognitive Chain-of-Thought Reasoning](https://github.com/YaruCao-AI/CogChain) (NLPCC 2024 (CCF-C))
+
 [2] Zhuang Chen, Jincenzi Wu, Jinfeng Zhou, Bosi Wen, Guanqun Bi, Gongyao Jiang, **Yaru Cao**, Mengting Hu, Yunghwei Lai, Zexuan Xiong, Minlie Huang
 . [ToMBench: Benchmarking Theory of Mind in Large Language Models](https://aclanthology.org/2024.acl-long.847.pdf)(ACL 2024 (CCF-A))
+
 [3] Zhuangchen, **Yaru Cao** et al. [SocialSim: Towards Socialized Simulation of Emotional Support Conversations] (AAAI 2025)
+
 [GitHub](https://github.com/YaruCao-AI)
+
 Email: [1195825322@qq.com](1195825322@qq.com), [y222240011@stu.xbmu.edu.cn](y22240011@stu.xbmu.edu.cn) 
 
